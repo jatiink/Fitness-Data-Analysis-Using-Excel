@@ -24,7 +24,7 @@ The dataset used for this analysis was downloaded from Kaggle and was made avail
 
 ## Repository Structure
 
-- `data/`: Contains the Fitbit fitness tracker dataset.
+- `Data/`: Contains the Fitbit fitness tracker dataset.
 - `solution/LeanFit_Analysis.xlsx`: Excel workbook containing the analysis and solutions for LeanFit.
 - `solution/FitWear_Analysis.xlsx`: Excel workbook containing the analysis and solutions for FitWear.
 - `solution/SleepyNights_Analysis.xlsx`: Excel workbook containing the analysis and solutions for Sleepy-Nights.
